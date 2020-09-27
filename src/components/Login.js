@@ -1,6 +1,6 @@
 import React from 'react';
-import './Login.css';
-import { loginUrl } from './soptify';
+import './styles/Login.css';
+import { loginUrl } from '../soptify';
 function Login() {
   return (
     <div className='login'>
