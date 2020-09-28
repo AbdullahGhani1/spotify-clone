@@ -4,7 +4,7 @@
 // Redirect to home page once Authorized
 export const authEndpoint = 'https://accounts.spotify.com/authorize';
 const redirectUri = 'http://localhost:3000/';
-const clientId = '8765545b25344f0095aa282cbadd8093';
+const clientId = 'your client Id';
 
 const scopes = [
   'user-read-currently-playing',
